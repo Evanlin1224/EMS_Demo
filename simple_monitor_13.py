@@ -150,4 +150,3 @@ class SimpleMonitor13(simple_switch_13.SimpleSwitch13):
                              stat.rx_packets, stat.rx_bytes, stat.rx_errors,
                              stat.tx_packets, stat.tx_bytes, stat.tx_errors)
 
-        #print(now,past)
